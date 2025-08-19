@@ -43,8 +43,9 @@
 
 ### ⏳ WakaTime Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pouya&theme=tokyonight&layout=compact" alt="WakaTime"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PouyaSadeghzadeh" alt="WakaTime"/>
 </p>
+
 
 ---
 
