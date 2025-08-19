@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">💻 Flutter Developer | Building modern mobile apps</h3>
+<h3 align="center">💻 Flutter Developer | Passionate about building modern mobile apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrPouyaSaad&label=Profile%20views&color=0e75b6&style=flat" alt="Pouya" />
@@ -8,9 +8,18 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working on **HameChiz Shop (WebView App)**  
-- 🛠 Skilled in **Flutter, Dart, and Mobile UI/UX**  
-- 💡 Love to build **clean, modern, and useful apps**  
+- 🌱 I’m currently working on **V I Z I T O M**  
+- 💡 Exploring advanced **Flutter & Dart** features to craft high-performance apps  
+- 🛠 Building both **personal projects** and **real-world apps** (like **HameChiz Shop**)  
+- 🎯 My goal: delivering clean, smooth, and user-friendly apps  
+- 🌍 Interested in **Open Source contributions** and **team collaboration**  
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,figma,vscode,firebase" />
+</p>
 
 ---
 
@@ -18,6 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrPouyaSaad&show_icons=true&theme=tokyonight" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPouyaSaad&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPouyaSaad&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
