@@ -8,11 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working on **V I Z I T O M**  
-- 💡 Exploring advanced **Flutter & Dart** features to craft high-performance apps  
-- 🛠 Building both **personal projects** and **real-world apps** (like **HameChiz Shop**)  
-- 🎯 My goal: delivering clean, smooth, and user-friendly apps  
-- 🌍 Interested in **Open Source contributions** and **team collaboration**  
+- 🚀 I’m looking for a job opportunity as a **Junior Flutter Developer**  
+- 🌱 Right now, I’m mostly working on a project called **V I Z I T O M** while trying to improve my Flutter & Dart skills  
+- 💡 Whenever I learn something new, I like to test it out and see how I can use it in my projects  
+- 🛠 I’ve worked on personal projects like **Matcher**, and also gained some experience building real-world apps  
+- 🎯 My main focus is always on making apps smooth, clean, and enjoyable for users  
+- 🌍 I enjoy working in a team and hope to contribute to **Open Source** projects in the future
 
 ---
 
