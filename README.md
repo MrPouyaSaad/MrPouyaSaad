@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">💻 Flutter Developer | Backend with Node.js/Express | Passionate about building modern mobile apps</h3>
+<h3 align="center">💻 Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrPouyaSaad&label=Profile%20views&color=0e75b6&style=flat" alt="Pouya" />
