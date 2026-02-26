@@ -15,6 +15,20 @@
 - 🎯 My main focus is always on making apps smooth, clean, and enjoyable for users  
 - 🌍 I enjoy working in a team and hope to contribute to **Open Source** projects in the future
 
+### 🧰 Flutter & Dart Skills
+- **State Management:** BLoC/Cubit, Provider
+- **Local Storage:** Hive, SharedPreferences
+- **Networking:** Dio, RESTful APIs
+- **Firebase Services:** Authentication, Firestore
+- **Tools:** Git, Postman, Figma
+
+---
+
+### 📌 Featured Projects
+- 🔥 **V I Z I T O M** - [یه خط توضیح مختصر]
+- 📱 **Matcher** - [یه خط توضیح مختصر]
+- 🎯 **[Project Name]** - [یه خط توضیح مختصر]
+
 ---
 
 ### 🛠 Languages & Tools
@@ -42,15 +56,13 @@
 
 ---
 
-### ⏳ WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PouyaSadeghzadeh" alt="WakaTime"/>
-</p>
-
-
----
-
 ### 🌐 Connect with me
 <p align="left">
 <a href="mailto:Mr.PouyaSadeghzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- لینک‌های دیگه رو هم می‌تونی اضافه کنی -->
 </p>
+
+<!--
+### ⏳ WakaTime Stats
+(فعلاً غیرفعال)
+-->
