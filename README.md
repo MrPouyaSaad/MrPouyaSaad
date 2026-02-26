@@ -1,39 +1,37 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">Flutter Developer • Production-Focused • Architecture-Oriented</h3>
+<h3 align="center">Flutter Developer (Junior) • Focused on Clean Architecture & BLoC</h3>
 
 ---
 
 ## 🚀 About Me
 
-Flutter developer focused on building scalable and production-ready mobile applications.
+Flutter developer with hands-on experience building production mobile applications.
 
-- 🔎 Actively seeking a **Junior Flutter Developer** role
-- 🏢 Flutter Developer & Project Manager at **VIZITOM** (B2B auto parts startup)
-- 🛍 Built and shipped **Sairon** (e-commerce application)
+- 🔎 Seeking a **Junior Flutter Developer** opportunity
+- 🏢 Flutter Developer at **VIZITOM** (B2B auto parts startup)
+- 🛍 Developed **Sairon** (e-commerce application)
 - 🏡 Contributed to **Matcher** (real estate platform)
-- 🧠 Strong focus on architecture, maintainability, and clean code
-- 🤝 Comfortable working in team environments and leading small teams
+- 🧠 Interested in scalable architecture and maintainable code
+- 🤝 Experience working in small teams and coordinating development tasks
 
 ---
 
-## 🏗 Engineering Approach
-
-I focus on writing maintainable and testable code by applying:
+## 🏗 What I Focus On
 
 - Clean Architecture (when project scale requires it)
-- BLoC / Cubit for predictable state management
-- Repository Pattern for abstraction
+- BLoC / Cubit for structured state management
+- Feature-based folder structure
+- Repository Pattern for data abstraction
 - Dependency Injection (get_it)
-- SOLID principles
-- Structured error handling
-- Feature-based project structure
+- Writing readable and maintainable code
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Technical Skills
 
-**Mobile**
-- Flutter, Dart
+**Mobile Development**
+- Flutter
+- Dart
 - BLoC / Cubit
 - Provider
 
@@ -41,17 +39,12 @@ I focus on writing maintainable and testable code by applying:
 - Clean Architecture
 - MVVM
 - Repository Pattern
+- SOLID principles
 
 **Networking & Data**
 - REST APIs (Dio)
 - Firebase (Auth, Firestore, FCM)
 - Hive, SharedPreferences, SQLite
-
-**Backend (Basic Working Knowledge)**
-- Node.js
-- Express
-- MongoDB
-- PostgreSQL
 
 **Tools**
 - Git
@@ -61,37 +54,28 @@ I focus on writing maintainable and testable code by applying:
 
 ---
 
-## 📌 Selected Projects
+## 📌 Projects
 
-### 🚗 VIZITOM (B2B Auto Parts Platform)
-**Role:** Flutter Developer & Project Manager
-
-- Led mobile development process
-- Implemented seller-side features
-- Integrated push notifications (FCM)
-- Coordinated tasks and sprint planning
-- Maintained code quality standards
+### 🚗 VIZITOM (Seller Application)
+- Developed seller-side mobile features
+- Integrated push notifications (Firebase Cloud Messaging)
+- Implemented product management flows
+- Coordinated development tasks within the team
 
 ---
 
 ### 🏡 Matcher (Real Estate Platform)
-**Role:** Flutter Developer
-
 - Implemented push & local notifications
-- Built real-time property listing flows
-- Integrated maps & geolocation features
-- Improved UI responsiveness and UX consistency
+- Built property listing UI flows
+- Integrated map and geolocation features
 
 ---
 
-### 🛍 Sairon (E-commerce Application)
-**Role:** Flutter Developer
-
+### 🛍 Sairon (E-commerce App)
 - Built using Clean Architecture
 - Implemented BLoC-based state management
-- Developed cart & checkout flow
+- Developed cart and checkout flow
 - Applied dependency injection
-- Structured scalable feature modules
 
 ---
 
@@ -99,7 +83,6 @@ I focus on writing maintainable and testable code by applying:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrPouyaSaad&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrPouyaSaad&theme=tokyonight" />
 </p>
 
 ---
