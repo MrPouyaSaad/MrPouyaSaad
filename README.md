@@ -7,27 +7,63 @@
 
 ---
 
-### 🚀 About Me
-- 🚀 I’m looking for a job opportunity as a **Junior Flutter Developer**  
-- 🌱 Right now, I’m mostly working on a project called **V I Z I T O M** while trying to improve my Flutter & Dart skills  
-- 💡 Whenever I learn something new, I like to test it out and see how I can use it in my projects  
-- 🛠 I’ve worked on personal projects like **Matcher**, and also gained some experience building real-world apps  
-- 🎯 My main focus is always on making apps smooth, clean, and enjoyable for users  
-- 🌍 I enjoy working in a team and hope to contribute to **Open Source** projects in the future
+🚀 About Me
 
-### 🧰 Flutter & Dart Skills
-- **State Management:** BLoC/Cubit, Provider
-- **Local Storage:** Hive, SharedPreferences
-- **Networking:** Dio, RESTful APIs
-- **Firebase Services:** Authentication, Firestore
-- **Tools:** Git, Postman, Figma
+🔭 Actively seeking a Junior Flutter Developer position
+📱 Currently working as Flutter Developer & Project Manager on VIZITOM (B2B auto parts startup)
+🏗 Built Sairon (e-commerce) with Clean Architecture and BLoC
+📲 Implemented real-time notifications and real estate listings in Matcher
+💡 Passionate about clean code, scalable architecture, and smooth UX
+🎯 Focused on building production-ready apps with best practices
+🤝 Team player with leadership experience and open source mindset
+
+
+🏗 Architecture & Patterns I Use
+
+✅ Clean Architecture (Data → Domain → Presentation) — implemented in Sairon
+✅ BLoC/Cubit for state management with separation of concerns
+✅ Repository Pattern for data abstraction
+✅ Dependency Injection (get_it, injectable)
+✅ SOLID Principles, DRY, KISS
+✅ Real-time features (push notifications, live updates)
+✅ Error handling with Result pattern
+
+
+🛠 Technical Skills
+
+Core: Flutter, Dart
+State: BLoC/Cubit, Provider
+Architecture: Clean Architecture, MVVM, Repository
+Data: Hive, SharedPreferences, SQLite
+Network: Dio, REST APIs
+Real-time: Push Notifications (FCM), Local Notifications
+Backend: Firebase (Auth, Firestore), Node.js
+Tools: Git, Postman, Figma, Jira/Trello
 
 ---
 
 ### 📌 Featured Projects
-- 🔥 **V I Z I T O M** - [یه خط توضیح مختصر]
-- 📱 **Matcher** - [یه خط توضیح مختصر]
-- 🎯 **[Project Name]** - [یه خط توضیح مختصر]
+
+#### 🚗 **VIZITOM** (B2B Auto Parts Startup)
+> **Role:** Flutter Developer & Project Manager  
+> - Leading the mobile development team  
+> - Managing project timeline and tasks  
+> - Implementing core features with Flutter  
+> - Ensuring code quality and architecture best practices
+
+#### 🏡 **Matcher** (Real Estate Platform)
+> **Role:** Flutter Developer  
+> - Implemented **push notifications** (FCM & local)  
+> - Built **real-time property listings**  
+> - Integrated **geolocation and maps**  
+> - Smooth UI/UX for buyers and sellers
+
+#### 📱 **Sairon** (Mobile Accessories E-commerce)
+> **Role:** Flutter Developer  
+> - Built with **Clean Architecture** (Data/Domain/Presentation)  
+> - State management with **BLoC/Cubit**  
+> - Product catalog, shopping cart, payment flow  
+> - Dependency Injection with get_it
 
 ---
 
