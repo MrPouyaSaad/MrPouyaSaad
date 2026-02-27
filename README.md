@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">Flutter Developer (Junior) • Focused on Clean Architecture & BLoC</h3>
+<h3 align="center">Flutter Developer (Junior)</h3>
 
 ---
 
